@@ -1,0 +1,4 @@
+If you want to ensure about the number of the object, this is where private constructor comes into play.
+
+When you want to create only one object from a class and limits it with that,you need to use private constructor
+and that class called by singleton classes.
